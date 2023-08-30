@@ -47,7 +47,7 @@
     #define SD_WATCH 0
 #endif
 
-#if TARGET_OS_XR
+#if TARGET_OS_VISION
     #define SD_VISION 1
 #else
     #define SD_VISION 0
